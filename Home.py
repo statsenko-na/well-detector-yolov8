@@ -41,7 +41,7 @@ st.markdown("---")  # Add a horizontal line for separation
 st.markdown(
     """
     <div style="text-align: center;">
-        **Связаться со мной:**<br>
+        Связаться со мной:<br>
         <a href="https://github.com/statsenko-na/well-detector-yolov8" target="_blank">GitHub</a> | 
         <a href="https://t.me/statsenko" target="_blank">Telegram @statsenko</a>
     </div>
